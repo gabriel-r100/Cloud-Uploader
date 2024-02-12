@@ -6,7 +6,7 @@ Using Azure CLI commands in a bash script to allow a user to easily upload to an
 
 
 <details>
-    <summary>On successful upload, it provides a progress bar.</summary>
+    <summary><h2>On successful upload, it provides a progress bar.</h2></summary>
     
 ![bashScriptSuccess](https://github.com/gabriel-r100/Cloud-Uploader/assets/55646808/7d3bade0-28f6-4562-b616-7afe3cbf4d35)
 
@@ -15,7 +15,7 @@ Using Azure CLI commands in a bash script to allow a user to easily upload to an
 
 
 <details>
-    <summary>On an error, it will use the Azure output to advise what the issue may be.</summary>
+    <summary><h2>On an error, it will use the Azure output to advise what the issue may be.</h2></summary>
 
 ![bashScriptError](https://github.com/gabriel-r100/Cloud-Uploader/assets/55646808/56284ac3-a29f-42b4-8c0a-04a5f9dddf72)
 
